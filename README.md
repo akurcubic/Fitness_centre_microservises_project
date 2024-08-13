@@ -39,5 +39,5 @@ This project is a comprehensive Personal Training Scheduling System designed to 
 ## Technologies Used
 
 - **Frameworks/Libraries:** Netflix Zuul (API Gateway), Eureka (Service Discovery)
-- **Tools:** Docker, Message Broker (e.g., RabbitMQ)
+- **Tools:** Message Broker (e.g., RabbitMQ)
 
